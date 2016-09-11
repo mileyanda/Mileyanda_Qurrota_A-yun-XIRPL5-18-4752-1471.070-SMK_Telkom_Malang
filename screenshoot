@@ -1,0 +1,15 @@
+Nama    : MIleyanda Qurrota A'yun
+Kelas   : XI RPL 5
+No Urut : 18
+NIS     : 4752/1471.070
+Sekolah : SMK Telkom Malang
+
+Penjelasan Aplikasi :
+Aplikasi ini untuk daftar menjadi Member EPIC(kelas saya).
+Terdapat isian nama, TTL, Asal, Jenis Kelamin.
+Saya menggunakan spinner, checkbox, dan radio button.
+Button menyeleksi agar dapat menampilkan hasil dari data yang telah di inputkan.
+Terdapat deteksi kesalahan bila belum mengisi nama, nama kurang dari 3 huruf, belum mengisi TTL, dan format TTL salah.
+
+
+LINK GOOGLE DRIVE     : https://docs.google.com/uc?id=0B06Got4S8AMldjI2ZGhWbG84X0U
