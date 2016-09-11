@@ -118,6 +118,75 @@
                 android:text="Perempuan" />
         </RadioGroup>
 
+        <TextView
+            android:id="@+id/textViewHobi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10px"
+            android:text="Hobi" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center">
+
+            <CheckBox
+                android:id="@+id/checkBoxDesain"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="Desain" />
+
+            <CheckBox
+                android:id="@+id/checkBoxCoding"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="Coding" />
+
+            <CheckBox
+                android:id="@+id/checkBoxWirausaha"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="Wirausaha" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/buttonDaftar"
+            style="@style/Base.TextAppearance.AppCompat.Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30px"
+            android:background="#5262f5"
+            android:text="Daftar"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/textViewHasil1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Hasil" />
+
+        <TextView
+            android:id="@+id/textViewHasil2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Hasil" />
+
+        <TextView
+            android:id="@+id/textViewHasil3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Hasil" />
+
+        <TextView
+            android:id="@+id/textViewHasil4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30px"
+            tools:text="Hasil" />
+
     </LinearLayout>
 </ScrollView>
 
