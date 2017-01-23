@@ -1,4 +1,4 @@
-# Project Tugas
+# Project TugasPPB#001
 - Nama                : Mileyanda Qurrota A'yun
 - Kelas               : XIRPL5
 - No. Urut            : 18
@@ -6,7 +6,7 @@
 - Asal Sekolah        : SMK Telkom Malang
 - Penjelasan Program  : Aplikasi ini untuk daftar menjadi Member EPIC(kelas saya). Terdapat isian nama, TTL, Asal, Jenis Kelamin. saya menggunakan spinner, checkbox, dan radio button. Button menyeleksi agar dapat menampilkan hasil dari data yang telah di inputkan. Terdapat deteksi kesalahan bila belum mengisi nama, nama kurang dari 3 huruf, belum mengisi TTL, dan format TTL salah.
 
-## Screenshoot Hasil Project 
+## Screenshoot Hasil Project TugasPPB#001 
 ![Screenshoot_1](https://s15.postimg.org/5ehw17gyj/01_ini_merupakan_tampilan_saya_memasukkan_beber.jpg)
 ![Screenshoot_2](https://s21.postimg.org/p2ikdljhz/02_menginisialisasi_dan_mengubah_text_View_perta.jpg)
 ![Screenshoot_3](https://s15.postimg.org/erwmj4ywb/03_memasukkan_gambar_yang_telah_saya_copy_ke_dr.jpg)
