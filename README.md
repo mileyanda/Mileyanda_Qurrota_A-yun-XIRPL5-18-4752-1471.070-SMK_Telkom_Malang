@@ -1,10 +1,10 @@
-# Mileyanda_Qurrota_A-yun-XIRPL5-18-4752-1471.070-SMK_Telkom_Malang
-Aplikasi ini untuk daftar menjadi Member EPIC(kelas saya).
-Terdapat isian nama, TTL, Asal, Jenis Kelamin. saya menggunakan spinner, checkbox, dan radio button.
-Button menyeleksi agar dapat menampilkan hasil dari data yang telah di inputkan.
-Terdapat deteksi kesalahan bila belum mengisi nama, nama kurang dari 3 huruf, belum mengisi TTL, dan format TTL salah.
-
-###LINK HASIL APP : https://drive.google.com/a/smktelkom-mlg.sch.id/file/d/0B06Got4S8AMleXF0TEdlMVlBSTA/view?usp=sharing
+# Project Tugas
+- Nama                : Mileyanda Qurrota A'yun
+- Kelas               : XIRPL5
+- No. Urut            : 18
+- NIS                 : 4752/1471.070
+- Asal Sekolah        : SMK Telkom Malang
+- Penjelasan Program  : Aplikasi ini untuk daftar menjadi Member EPIC(kelas saya). Terdapat isian nama, TTL, Asal, Jenis Kelamin. saya menggunakan spinner, checkbox, dan radio button. Button menyeleksi agar dapat menampilkan hasil dari data yang telah di inputkan. Terdapat deteksi kesalahan bila belum mengisi nama, nama kurang dari 3 huruf, belum mengisi TTL, dan format TTL salah.
 
 ## Screenshoot Hasil Project 
 ![Screenshoot_1](https://s15.postimg.org/5ehw17gyj/01_ini_merupakan_tampilan_saya_memasukkan_beber.jpg)
@@ -22,3 +22,6 @@ Terdapat deteksi kesalahan bila belum mengisi nama, nama kurang dari 3 huruf, be
 ![Screenshoot_13](https://s17.postimg.org/ax32dd7db/13_Hasil_Akhir.jpg)
 ![Screenshoot_14](https://s14.postimg.org/xmm605ow1/14_Hasil_Akhir_saat_terjadi_kesalahan.jpg)
 ![Screenshoot_15](https://s15.postimg.org/9b8rt32vf/15_Hasil_Akhir_saat_benar.jpg)
+
+
+###LINK HASIL APP : https://drive.google.com/a/smktelkom-mlg.sch.id/file/d/0B06Got4S8AMleXF0TEdlMVlBSTA/view?usp=sharing
